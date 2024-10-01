@@ -1,0 +1,225 @@
+@media screen and (max-width: 1300px) {
+    #home .home-main-container .right-panel {
+        width: 50%;
+        min-height: 400px;
+    }
+
+    #home .home-main-container .right-panel .img-box {
+        width: 300px;
+        height: 300px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    #home .home-main-container .left-panel {
+        width: 100%;
+        height: 100%;
+        margin-bottom: 50px;
+    }
+
+    #home .home-main-container .left-panel h4 {
+        font-size: 18px;
+        font-weight: normal;
+        margin: 0px;
+    }
+
+    #home .home-main-container .left-panel h2 {
+        font-size: 40px;
+        font-weight: normal;
+        margin: 0px;
+    }
+
+    #home .home-main-container .left-panel h3 {
+        font-size: 18px;
+        font-weight: normal;
+        margin: 0px;
+    }
+
+    #home .home-main-container .right-panel {
+        width: 100%;
+        min-height: 400px;
+    }
+
+    .about-main-container .left-panel {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .about-main-container .left-panel .about-me-img-div {
+        width: 60%
+    }
+
+    .about-main-container .right-panel {
+        width: 100%;
+    }
+
+    .timeline li .date {
+        font-size: 18px !important;
+    }
+
+    .contact-container .left-panel .contact-form {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .timeline li .date {
+        font-size: 16px !important;
+    }
+
+    .contact-container {
+        gap: 20px;
+    }
+
+    .contact-container .left-panel {
+        width: 80%;
+    }
+
+    .contact-container .right-panel {
+        width: 80%;
+    }
+
+    .section-subtitle {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    header nav ul {
+        display: none;
+        transition: all 0.3s ease-in-out;
+    }
+
+    .nav-toggle {
+        display: block;
+        color: #fff;
+        cursor: pointer;
+    }
+
+    .nav-toggle.show {
+        display: block;
+    }
+
+    header nav {
+        position: relative;
+    }
+
+    header nav ul.active {
+        position: fixed;
+        top: 60px;
+        right: 0px;
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+        padding: 20px;
+        background: #2b2c2f;
+        display: flex !important;
+        flex-direction: column;
+        animation: expand 1s ease-in-out forwards;
+    }
+
+    @keyframes expand {
+        0% {
+            width: 50%;
+            border-bottom-left-radius: 50%;
+            -webkit-box-shadow: 0 10px 6px -6px #777;
+            -moz-box-shadow: 0 10px 6px -6px #777;
+            box-shadow: 0 10px 6px -6px #777;
+        }
+
+        100% {
+            width: 100%;
+            border-bottom-left-radius: 0%;
+            border-top-left-radius: 0%;
+        }
+    }
+
+
+
+    header nav ul.active {
+        width: 100%;
+        flex-direction: column;
+        align-items: end;
+        padding: 20px;
+    }
+
+    header nav ul.active li {
+        width: 100%;
+        text-align: center;
+        padding: 10px 0px;
+    }
+
+    header nav ul.active li a {
+        color: #fff;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+    .timeline li {
+        --inlineP: 0px !important;
+    }
+
+    .timeline {
+        padding: 0px !important;
+        --row-gap: 0px !important
+    }
+
+    .timeline li .title {
+        padding: 10px !important;
+    }
+
+    .timeline li .descr {
+        padding: 0px 10px 10px 10px !important;
+    }
+
+    #home .home-main-container .left-panel {
+        padding: 0px 10px;
+        margin-top: -100px;
+    }
+
+    .about-main-container .left-panel .about-me-img-div {
+        width: 90%;
+    }
+
+    .portfolio-container {
+        padding: 5px;
+        gap: 10px;
+    }
+
+    section>.section-title {
+        font-size: 26px;
+        padding: 20px 10px 0px 10px;
+    }
+
+    .contact-container .left-panel {
+        width: 100%;
+    }
+
+    .contact-container .right-panel {
+        width: 100%;
+    }
+
+    .section-subtitle {
+        width: 100%;
+        font-size: 13px;
+        padding: 0px 10px;
+    }
+
+    footer {
+        font-size: 13px;
+    }
+
+    .footer-bottom {
+        font-size: 13px;
+    }
+
+    .social-links a {
+        font-size: 18px;
+    }
+
+    /* .particles even elements */
+    .particles:nth-of-type(odd) {
+        display: none;
+    }
+}

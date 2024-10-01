@@ -1,0 +1,268 @@
+{
+    "projects": [
+        {
+            "title": "Personal Portfolio Website",
+            "description": "Description 1",
+            "url": "https://personal-portfolio-swagatamadhikary.netlify.app/",
+            "cover":"/portfolio-page/img/projects/project-1/1.png",
+            "tools" : [
+                "Laravel",
+                "Bootstrap",
+                "Javascript"
+            ],
+            "screenshots" : [
+                "/portfolio-page/img/projects/project-1/1.png",
+                "/portfolio-page/img/projects/project-1/2.png",
+                "/portfolio-page/img/projects/project-1/3.png",
+                "/portfolio-page/img/projects/project-1/4.png",
+                "/portfolio-page/img/projects/project-1/5.png",
+                "/portfolio-page/img/projects/project-1/6.png"
+            ]
+        },
+        {
+            "title": "Weather App Website",
+            "description": "Description 1",
+            "url": "https://weatherappsite1.netlify.app/",
+            "cover":"/portfolio-page/img/projects/project-2/1.png",
+            "tools" : [
+                "Php",
+                "Bootstrap",
+                "Javascript"
+            ],
+            "screenshots" : [
+                "/portfolio-page/img/projects/project-2/1.png",
+                "/portfolio-page/img/projects/project-2/2.png",
+                "/portfolio-page/img/projects/project-2/3.png",
+                "/portfolio-page/img/projects/project-2/4.png",
+                "/portfolio-page/img/projects/project-2/5.png",
+                "/portfolio-page/img/projects/project-2/6.png"
+            ]
+        },
+        {
+            "title": "Contact Form Website",
+            "description": "Description 1",
+            "url": "https://contactformsite1.netlify.app/",
+            "cover":"/portfolio-page/img/projects/project-3/1.png",
+            "tools" : [
+                "React Js",
+                "Express Js",
+                "Node Js",
+                "Mongodb"
+            ],
+            "screenshots" : [
+                "/portfolio-page/img/projects/project-3/1.png",
+                "/portfolio-page/img/projects/project-3/2.png",
+                "/portfolio-page/img/projects/project-3/3.png",
+                "/portfolio-page/img/projects/project-3/4.png",
+                "/portfolio-page/img/projects/project-3/5.png",
+                "/portfolio-page/img/projects/project-3/6.png"
+            ]
+        },
+        {
+            "title": "Build Music Player Website",
+            "description": "Description 1",
+            "url": "https://musicplayersiteee.netlify.app/",
+            "cover":"/portfolio-page/img/projects/project-4/1.png",
+            "tools" : [
+                "Laravel",
+                "Bootstrap",
+                "Javascript"
+            ],
+            "screenshots" : [
+                "/portfolio-page/img/projects/project-7/1.png",
+                "/portfolio-page/img/projects/project-7/2.png",
+                "/portfolio-page/img/projects/project-7/3.png",
+                "/portfolio-page/img/projects/project-7/4.png",
+                "/portfolio-page/img/projects/project-7/5.png",
+                "/portfolio-page/img/projects/project-7/6.png"
+            ]
+        },
+        {
+            "title": "Restaurant Website",
+            "description": "Description 1",
+            "url": "https://restaurantsiteee.netlify.app/",
+            "cover":"/portfolio-page/img/projects/project-5/1.png",
+            "tools" : [
+                "Laravel",
+                "Bootstrap",
+                "Javascript"
+            ],
+            "screenshots" : [
+                "/portfolio-page/img/projects/project-8/1.png",
+                "/portfolio-page/img/projects/project-8/2.png",
+                "/portfolio-page/img/projects/project-8/3.png",
+                "/portfolio-page/img/projects/project-8/4.png",
+                "/portfolio-page/img/projects/project-8/5.png",
+                "/portfolio-page/img/projects/project-8/6.png"
+            ]
+        },
+        {
+            "title": "Digital Clock Using JavaScript",
+            "description": "Description 1",
+            "url": "https://digitalclockwebsite2.netlify.app/",
+            "cover": "portfolio-page/img/projects/project-6/1.png",
+            "tools" :[
+                "Laravel",
+                "Bootstrap",
+                "Javascript"
+            ],
+            "screenshots" :[
+
+            ]
+
+        },
+        {
+            "title": "jarvis-ai-website",
+            "description":"Description 1",
+            "url":  "https://jarvis-ai-website.netlify.app/",
+            "cover": "portfolio-page/img/projects/project-7/1.png",
+            "tools" :[
+                "Laravel",
+                "Bootstrap",
+                "Javascript"
+            ],
+            "screenshots" :[
+
+            ]
+        },
+        {
+            "title": "Design Slider Animation Website",
+            "description":"Description 1",
+            "url":  "https://slideranimationsite.netlify.app/",
+            "cover": "portfolio-page/img/projects/project-8/1.png",
+            "tools" :[
+                "Laravel",
+                "Bootstrap",
+                "Javascript"
+            ],
+            "screenshots" :[
+
+            ]
+        },
+        {
+            "title": "3D Parallax Animation Website",
+            "description":"Description 1",
+            "url":  "https://3dparallaxanimationsite.netlify.app/",
+            "cover": "portfolio-page/img/projects/project-9/1.png",
+            "tools" :[
+                "Laravel",
+                "Bootstrap",
+                "Javascript"
+            ],
+            "screenshots" :[
+
+            ]
+        },
+        {
+            "title": "Animated Portfolio Website",
+            "description":"Description 1",
+            "url":  "https://animated-portfolio-site.netlify.app/",
+            "cover": "portfolio-page/img/projects/project-10/1.png",
+            "tools" :[
+                "Laravel",
+                "Bootstrap",
+                "Javascript"
+            ],
+            "screenshots" :[
+
+            ]
+        },
+        {
+            "title": "Quiz App using HTML, CSS & JavaScript",
+            "description":"Description 1",
+            "url":  "https://quizappwebsite.netlify.app/",
+            "cover": "portfolio-page/img/projects/project-11/1.png",
+            "tools" :[
+                "Laravel",
+                "Bootstrap",
+                "Javascript"
+            ],
+            "screenshots" :[
+
+            ]
+        } 
+    ],
+    "certificates" : [
+        {
+            "title": "Google Data Analytics",
+            "organization": "Coursera",
+            "cover":"/portfolio-page/img/certificates_swagatam/1.png"
+        },
+        {
+            "title": "Foundations of Digital Marketing and E-commerce",
+            "organization": "Coursera",
+            "cover":"/portfolio-page/img/certificates_swagatam/2.png"
+        },
+        {
+            "title": "Attract and Engage Customers with Digital Marketing",
+            "organization": "Coursera",
+            "cover":"/portfolio-page/img/certificates_swagatam/3.png"
+        },
+        {
+            "title": "Introduction to Ethical Hacking in Hindi",
+            "organization": "Great Learning",
+            "cover":"/portfolio-page/img/certificates_swagatam/4.png"
+        },
+        {
+            "title": "Front End Development HTML",
+            "organization": "Great Learning",
+            "cover":"/portfolio-page/img/certificates_swagatam/5.png"
+        },
+        {
+            "title": "Front End Development CSS",
+            "organization": "Great Learning",
+            "cover":"/portfolio-page/img/certificates_swagatam/6.png"
+        },
+        {
+            "title": "PHP for Beginners",
+            "organization": "Great Learning",
+            "cover":"/portfolio-page/img/certificates_swagatam/7.png"
+        },
+        {
+            "title": "Introduction to JavaScript",
+            "organization": "Great Learning",
+            "cover":"/portfolio-page/img/certificates_swagatam/8.png"
+        },
+        {
+            "title": "Web Development in Hindi",
+            "organization": "Great Learning",
+            "cover":"/portfolio-page/img/certificates_swagatam/9.png"
+        },
+        {
+            "title": "Data Science , Machine Learning Using Python Certificate",
+            "organization": "ARDENT COMPUTECH PVT. LTD.",
+            "cover":"/portfolio-page/img/certificates_swagatam/10.png"
+        },
+        {
+            "title": "CertificateOfCompletion_Career Essentials in Software Development by Microsoft and LinkedIn",
+            "organization": "Linkedin Learning",
+            "cover":"/portfolio-page/img/certificates_swagatam/11.png"
+        },
+        {
+            "title": "CertificateOfCompletion_Career Essentials in Data Analysis by Microsoft and LinkedIn",
+            "organization": "Linkedin Learning",
+            "cover":"/portfolio-page/img/certificates_swagatam/12.png"
+        },        
+        {
+            "title": "Introduction to Information Security",
+            "organization": "Great Learning",
+            "cover":"/portfolio-page/img/certificates_swagatam/13.png"
+        },        
+        {
+            "title": "Smart English Basics for Professionals",
+            "organization": "Great Learning",
+            "cover":"/portfolio-page/img/certificates_swagatam/14.png"
+        },        
+        {
+            "title": "Satisfaction Guaranted _ Develop Customer Loyalty Online",
+            "organization": "Coursera",
+            "cover":"/portfolio-page/img/certificates_swagatam/15.png"
+        },
+        {
+            "title": "7-Days Power-BI Micro Course",
+            "organization": "ISO 9001:2015 Certified E-Learning Platform",
+            "cover":"/portfolio-page/img/certificates_swagatam/16.png"
+        }
+    ]
+    
+}
