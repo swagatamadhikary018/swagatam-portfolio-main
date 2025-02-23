@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/profile_pic_swagatam.png" align="center" />
+<img src="portfolio-page/img/3.jpg" align="center" />
 </div>  
   
 <br/>
@@ -7,7 +7,7 @@
 ### <div align="center">I'm Swagatam, a FrontEnd Developer</div>
 
 
-- 🌱 I’m currently learning MERN
+- 👨‍💻 I’m currently learning Web Developer
 
 <br/>
 
@@ -19,7 +19,7 @@
 <h3> Frontend </h3>
 
 <div align="center">  
-<img style="margin: 10px" src="portfolio-page/img/icons/html.png" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="portfolio-page/img/icons/html.png" alt="HTML" height="50" />  
 <img style="margin: 10px" src="portfolio-page/img/icons/css.png" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="portfolio-page/img/icons/js.png" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="portfolio-page/img/icons/bootstrap.png" alt="Bootstrap" height="50" />  
