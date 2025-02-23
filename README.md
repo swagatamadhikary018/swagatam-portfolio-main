@@ -19,11 +19,11 @@
 <h3> Frontend </h3>
 
 <div align="center">  
-<img style="margin: 10px" src="portfolio-page/img/icons/html.png" alt="HTML" height="50" />  
-<img style="margin: 10px" src="portfolio-page/img/icons/css.png" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="portfolio-page/img/icons/html.png" alt="Html" height="50" />  
+<img style="margin: 10px" src="portfolio-page/img/icons/css.png" alt="Css" height="50" />  
 <img style="margin: 10px" src="portfolio-page/img/icons/js.png" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="portfolio-page/img/icons/bootstrap.png" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="portfolio-page/img/icons/reactjs.png" alt="React" height="50" />  
+<img style="margin: 10px" src="portfolio-page/img/icons/reactjs.png" alt="React JS" height="50" />  
 <img style="margin: 10px" src="portfolio-page/img/icons/python.png" alt="Python" height="50" />
 </div>
 
