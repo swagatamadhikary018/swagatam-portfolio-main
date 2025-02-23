@@ -14,11 +14,11 @@
 
 ## My Skill Set
 
-<table><tr><td valign="top" width="33%">
-
 <h3> Frontend </h3>
 
 ![html](https://github.com/swagatamadhikary018/swagatam-portfolio-main/blob/8124858301c5e428e88da533eff7ce05fe7d9c56/icons/html.png) 
+![Css](https://github.com/swagatamadhikary018/swagatam-portfolio-main/blob/554740e7177c7f85e1a3df394102b76169d8b282/icons/css.png)
+![JavaScript](https://github.com/swagatamadhikary018/swagatam-portfolio-main/blob/554740e7177c7f85e1a3df394102b76169d8b282/icons/js.png)
 
 <h3> Backend </h3>
 <div align="center">  
