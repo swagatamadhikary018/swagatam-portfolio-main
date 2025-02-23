@@ -21,6 +21,8 @@
 ![Css](https://github.com/swagatamadhikary018/swagatam-portfolio-main/blob/554740e7177c7f85e1a3df394102b76169d8b282/icons/css.png)
 ![JavaScript](https://github.com/swagatamadhikary018/swagatam-portfolio-main/blob/554740e7177c7f85e1a3df394102b76169d8b282/icons/js.png)
 
+<table><tr><td valign="top" width="20%" height="20%">
+
 <h3> Backend </h3>
 <div align="center">  
 <img style="margin: 10px" src="assets/php.svg" alt="PHP" height="50" />  
