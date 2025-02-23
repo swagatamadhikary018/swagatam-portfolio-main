@@ -19,8 +19,7 @@
 <h3> Frontend </h3>
 
 <div align="center">  
-![html](https://github.com/swagatamadhikary018/swagatam-portfolio-main/blob/8124858301c5e428e88da533eff7ce05fe7d9c56/icons/html.png)
-<img style="margin: 10px" src="portfolio-page/img/icons/html.png" alt="Html" height="50" />  
+<img style="margin: 10px" src="![html](https://github.com/swagatamadhikary018/swagatam-portfolio-main/blob/8124858301c5e428e88da533eff7ce05fe7d9c56/icons/html.png)" alt="Html" height="50" />  
 <img style="margin: 10px" src="portfolio-page/img/icons/css.png" alt="Css" height="50" />  
 <img style="margin: 10px" src="portfolio-page/img/icons/js.png" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="portfolio-page/img/icons/bootstrap.png" alt="Bootstrap" height="50" />  
