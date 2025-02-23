@@ -13,7 +13,7 @@
 
 
 ## My Skill Set
-
+<table><tr><td valign="top" width="33%" height="33%">
 <h3> Frontend </h3>
 
 ![html](https://github.com/swagatamadhikary018/swagatam-portfolio-main/blob/8124858301c5e428e88da533eff7ce05fe7d9c56/icons/html.png) 
